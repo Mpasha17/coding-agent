@@ -1,0 +1,22 @@
+# Ignore virtual environments
+env/
+venv/
+.prompt/
+prompt/
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# macOS
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# dotenv files
+.env
