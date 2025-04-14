@@ -1,0 +1,6 @@
+# requirements.txt
+
+streamlit
+langchain
+langchain-google-genai
+python-dotenv
